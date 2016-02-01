@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## 1.0.2 - 2016-02-01
+## 1.1.1 - 2016-02-01
 - Bugfix - error was coming back as string even for json apis
 
 ## 1.0.1 - 2015-10-20
