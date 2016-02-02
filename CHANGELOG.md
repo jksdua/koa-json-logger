@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 1.1.3 - 2016-02-02
+- Bugfix - only hide error details in production if there is no error `details` property
+
 ## 1.1.2 - 2016-02-02
 - Bugfix - only hide error message for 500 errors
 
