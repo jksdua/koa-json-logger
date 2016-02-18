@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 1.2.0 - 2016-02-18
+- Feature - add support for custom serializers
+
 ## 1.1.3 - 2016-02-02
 - Bugfix - only hide error details in production if there is no error `details` property
 
