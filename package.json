@@ -1,6 +1,6 @@
 {
   "name": "@knoxxnxt/koa-json-logger",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "KoaJS HTTP Request/Response/Error JSON format logger",
   "repository": {
     "type": "git",
