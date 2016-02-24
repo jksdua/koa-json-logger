@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 1.2.1 - 2016-0.2-24
+- Bugfix - update error serializer so it uses the same parameters as other serializers. Fixes the error serializer not actually serializing the error
+
 ## 1.2.0 - 2016-02-18
 - Feature - add support for custom serializers
 
