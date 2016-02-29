@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 1.2.4 - 2016-02-29
+- Also update `Content-Type` header inside error handler
+
 ## 1.2.3 - 2016-02-29
 - Update `Content-Type` header to use more conventional `application/json` instead of `application/vnd.api+json`
 
