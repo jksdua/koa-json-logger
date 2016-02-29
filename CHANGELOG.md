@@ -1,10 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## 1.2.2 - 2016-0.2-24
+## 1.2.3 - 2016-02-29
+- Update `Content-Type` header to use more conventional `application/json` instead of `application/vnd.api+json`
+
+## 1.2.2 - 2016-02-24
 - Bugfix - expose the correct error serializer
 
-## 1.2.1 - 2016-0.2-24
+## 1.2.1 - 2016-02-24
 - Bugfix - update error serializer so it uses the same parameters as other serializers. Fixes the error serializer not actually serializing the error
 
 ## 1.2.0 - 2016-02-18
