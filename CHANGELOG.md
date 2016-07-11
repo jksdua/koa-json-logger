@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## 1.2.5 - 2016-07-12
+## 1.2.6 - 2016-07-12
 - Only set JSON response type header if no response type is already set
 
 ## 1.2.4 - 2016-02-29
